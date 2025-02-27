@@ -1,7 +1,6 @@
 # User Personas
 
-We help teachers who is interested in adding an
-analytics tool to their website.
+We help teachers who is interested in adding an analytics tool to their website.
 
 ---
 
