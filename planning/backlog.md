@@ -19,7 +19,7 @@
 
     - [ ] _there is Product analytics Tool_ <!--Private Tutor-->
     - [ ] _there is Session replay Tool_ <!-- EdTech Entrepreneur -->
-    - [ ] _there is Heatmaps Tool_ <!-- EdTech Entrepreneur ,Private Tutor-->
+    - [ ] _there is Heatmap Tool_ <!-- EdTech Entrepreneur ,Private Tutor-->
 
   - As a teacher i want to see what other teachers feedback so that i know what is
   the impact i will get from using the platform.
