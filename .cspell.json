@@ -15,7 +15,8 @@
     "Verwijs",
     "Todos",
     "wireframe",
-    "Zakey"
+    "Zakey",
+    "flexbox"
   ],
   "ignorePaths": [
     "node_modules/**",
