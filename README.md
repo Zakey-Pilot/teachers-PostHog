@@ -1,16 +1,15 @@
-# Name of project
+# Teachers PostHog
 
-> A longer description
+> A web page build by Zakey pilot participants, for as a team learning how the
+ agile methodology work in projects.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project](#teachers-posthog)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Code Examples](#code-examples)
   - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
@@ -22,43 +21,34 @@
 
 ## General info
 
-> A short description
-
-## Screenshots
-
-![Example screenshot](./planning/screenshot.jpg)
+> A page that helps teachers to understand what the PostHog analytics tool is
+> and what the tool provides.
 
 ## Technologies
 
-- Node 14.16.0
+- Node 18.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
 
 ## Setup
 
 - `npm run start`
 
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
-
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
+- Theres no features ready to view or use right now, we just planning for what
+  we will do.
 
 To-do list:
 
--
--
+- Header
+- Introduction
+- Essential tools
+- Teachers feedback
+- Navbar
+- Footer
+- Hover effect
 
 ## Status
 
@@ -66,11 +56,11 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by PostHog.com
 
 ## Contact
 
-By [Name]
+By [Zakey pilot participants]
 
 ## Instructions for use
 
