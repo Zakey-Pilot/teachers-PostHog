@@ -1,7 +1,7 @@
 # Teachers PostHog
 
 > A web page build by Zakey pilot participants, for as a team learning how the
- agile methodology work in projects.
+> agile methodology work in projects.
 
 ## Table of contents
 
