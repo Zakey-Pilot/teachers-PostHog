@@ -16,6 +16,8 @@
     "Todos",
     "wireframe",
     "Lexend"
+    "Zakey",
+    "flexbox"
   ],
   "ignorePaths": [
     "node_modules/**",
