@@ -15,10 +15,9 @@
     "Verwijs",
     "Todos",
     "wireframe",
-    "Lexend"
+    "Lexend",
     "Zakey",
-    "flexbox",
-    "Lexend"
+    "flexbox"
   ],
   "ignorePaths": [
     "node_modules/**",
